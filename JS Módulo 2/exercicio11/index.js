@@ -18,7 +18,6 @@ function addPlayer() {
         document.getElementById('number').value = ''
     }
 
-
     //console.log({ positon, name, number }) 
     //quando usamos as chaves dentro do console.log, irá exibir em forma de objeto no console, deixando mais organizado.
 }
